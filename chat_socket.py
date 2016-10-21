@@ -1,6 +1,6 @@
 import socket
 import time
-from debug.debug import debug_print
+from debug import debug_print
 
 BUFFER_SIZE = 2048
 

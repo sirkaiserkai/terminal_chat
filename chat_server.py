@@ -2,7 +2,7 @@ import select
 import socket 
 import sys
 import Queue
-from debug.debug import debug_print
+from debug import debug_print
 from chat_socket import chat_socket
 
 

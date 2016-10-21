@@ -5,7 +5,7 @@ import socket
 import copy
 from threading import Thread
 from chat_socket import chat_socket
-from debug.debug import debug_print
+from debug import debug_print
 
 RUN_SOCKET = True
 msg_list = []
